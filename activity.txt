@@ -1,1 +1,2 @@
 Activity log 1
+Activity log 2
